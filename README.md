@@ -11,5 +11,6 @@ It is a part ofSsoftware Engineering course in Semester 4 at FPT University, HCM
 ## Contact me via
 [Github](https://github.com/TanPM77)
 [Facebook](https://www.facebook.com/profile.php?id=100023214173483)
+[Gmail](TanPMSE140151@fpt.edu.vn)
 
 ## © 2020 by TanPM
