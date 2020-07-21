@@ -17,6 +17,10 @@ public class MathUtil {
     //hàm gia thừa N!= 1,2,3, .. bùng nổ kết quả nhenh
     //hàn tràn int(2 tỉ) sớm, ta trả về long cỡ 15!
     public static long computerFactorial(int n) {
+        //ko tinh dc so am va > 15 vi qua lon
+        if (n < 0 || n >15) {
+            throw new IllegalArgumentException("Invalid argument. n must be >0 && n <= 15");
+        }
         long result = 1;
         for (int i = 1; i <= n; i++) {
             result *= i;
