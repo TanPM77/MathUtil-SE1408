@@ -39,6 +39,7 @@ public class MathUnitTest {
         //We need use other option with exception
         //i need result Exception when we input value = -5 into cF()
         //so print out String which is green or red
+        //green means ok red is not ok
         MathUtil.computerFactorial(-5);
     }
 }
